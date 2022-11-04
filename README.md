@@ -33,7 +33,7 @@ object Dyllan {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dyllanws&show_icons=true&theme=dracula&line_height=27" alt="dyllan github stats"/>
 </a>
 
-[instagram]: [https://www.instagram.com/Dyllanws/]
+[instagram]: https://www.instagram.com/dyllanws/
 [linkedin]: https://www.linkedin.com/in/dyllancardoso/
 <br>
 
